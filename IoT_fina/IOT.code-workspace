@@ -1,20 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "IOT",
-			"path": "../IOT"
-		},
-		{
-			"name": "Max30100_IoT",
-			"path": "../Max30100_IoT"
-		},
-		{
 			"name": "IoT_fina",
 			"path": "."
-		},
-		{
-			"name": "GPS",
-			"path": "../GPS"
 		}
 	],
 	"settings": {
