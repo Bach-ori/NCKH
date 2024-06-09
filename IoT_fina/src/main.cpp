@@ -159,6 +159,6 @@ void setup()
 
 void loop()  
 {
-  //vòng lặp
+  //vòng lặp (phải đặt trong này)
   loopsensor();
 }
